@@ -132,22 +132,22 @@ public class Kasir {
                 if (pilih2 == 1) {
                     namaitem = "Arrow";
                     result = brbg[0].totalHarga(jmlItem);
-                    System.out.println("Harga untuk " + jmlItem + namaitem + "adalah " + result );
+                    System.out.println("Harga untuk " +" "+jmlItem +" "+namaitem +" "+ "adalah " + result );
                 }
                 else if (pilih2 == 2) {
                     namaitem = "Arm Guard";
                     result = brbg[1].totalHarga(jmlItem);
-                    System.out.println("Harga untuk " + jmlItem + namaitem + "adalah " + result );
+                    System.out.println("Harga untuk " +" 2"+jmlItem +" "+namaitem +" "+ "adalah " + result );
                 }
                 else if (pilih2 == 3){
                     namaitem = "Bow Stand";
                     result = brbg[2].totalHarga(jmlItem);
-                    System.out.println("Harga untuk " + jmlItem + namaitem + "adalah " + result );
+                    System.out.println("Harga untuk " +" "+jmlItem +" "+namaitem +" "+ "adalah " + result );
                 }
                 else if (pilih2 == 4){
                     namaitem = "Finger Tab";
                     result = brbg[3].totalHarga(jmlItem);
-                    System.out.println("Harga untuk " + jmlItem + namaitem + "adalah " + result );
+                    System.out.println("Harga untuk " +" "+jmlItem +" "+namaitem +" "+ "adalah " + result );
                 } 
 
             
