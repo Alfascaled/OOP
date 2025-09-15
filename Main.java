@@ -1,4 +1,4 @@
-// File Belajar Java
+
 // Source : Kelas Terbuka (Youtube)
 
 // class Mahasiswa { // ini namanya Class
@@ -52,8 +52,18 @@
 
 //         // ==================================================================
 //         // Sesi 3 : Method 
-        
 
+class Data {
+    public int intpublic;
+    private int intprivate;
+}
+
+
+public class Main {
+    public static void main(String[] args) {
+        
+    }
+}
 
 //     }
 // }
